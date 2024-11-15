@@ -12,6 +12,7 @@
 ssr plus+</br>
 diskman</br>
 dockerman</br>
+adguardhome</br>
 
 
 ![image](https://github.com/user-attachments/assets/88325976-294b-4b7f-ace3-d602f9efd016)</br>
